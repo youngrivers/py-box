@@ -1,0 +1,19 @@
+# =========================
+# Operating System Files
+# =========================
+
+.vscode/
+node_modules/
+.idea/
+smart/
+
+yarn.lock
+*.txt
+*.db
+*.wav
+*.mp3
+
+*.jpg
+*.gif
+*.jpeg
+*.png
