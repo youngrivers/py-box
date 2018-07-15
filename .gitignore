@@ -32,6 +32,7 @@ yarn.lock
 *.db
 *.wav
 *.mp3
+*.log
 
 *.jpg
 *.gif
